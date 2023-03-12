@@ -12,9 +12,33 @@
     <img height="20" src="https://qiita-badge.apiapi.app/s/YuichiSato/contributions.svg" />
   </a>
 </p>
-      
-[![Anurag's GitHub stats](https://github-readme-stats-62p99uxu4-satoyuichi.vercel.app/api?username=satoyuichi&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats-62p99uxu4-satoyuichi.vercel.app/api/top-langs/?username=satoyuichi&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+I'm Sato Yuichi.
+
+My major is Electronic and Information Engineering.
+
+# Skill sets
++ C
++ C++
++ C#(Unity)
++ Smalltalk(Squeak, Pharo)
++ JavaScript
++ Rust
++ Swift(Xcode)
++ Processing
++ Python
++ Ruby
++ PHP
++ ActionScript3
+
+# My favorite
++ Programming language: Smalltalk
++ Tools: Emacs / LaTeX / Blender / Gimp
++ Hobby: Playing electoric guitar / Reading books / Movie watching
++ Guitar: Gibson Les Paul Standard
+
+[![Anurag's GitHub stats](https://github-readme-stats-bjpmillyr-satoyuichi.vercel.app/api?username=satoyuichi&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats-bjpmillyr-satoyuichi.vercel.app/api/top-langs/?username=satoyuichi&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <!---
 satoyuichi/satoyuichi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
