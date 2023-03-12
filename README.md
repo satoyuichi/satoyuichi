@@ -17,11 +17,12 @@ I'm Sato Yuichi.
 
 My major is Electronic and Information Engineering.
 
-# Skill sets
+# Skill Sets
 + C
 + C++
 + C#(Unity)
 + Smalltalk(Squeak, Pharo)
++ Assembly
 + JavaScript
 + Rust
 + Swift(Xcode)
@@ -30,10 +31,11 @@ My major is Electronic and Information Engineering.
 + Ruby
 + PHP
 + ActionScript3
++ BASIC
 
-# My favorite
+# My Favorite
 + Programming language: Smalltalk
-+ Tools: Emacs / LaTeX / Blender / Gimp
++ Tools: Emacs / LaTeX / Notion / Blender / Gimp
 + Hobby: Playing electoric guitar / Reading books / Movie watching
 + Guitar: Gibson Les Paul Standard
 
