@@ -39,8 +39,10 @@ My major is Electronic and Information Engineering.
 + Hobby: Playing electoric guitar / Reading books / Movie watching
 + Guitar: Gibson Les Paul Standard
 
+<!---
 [![Anurag's GitHub stats](https://github-readme-stats-3oq2hcpum-satoyuichi.vercel.app/api?username=satoyuichi&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats-3oq2hcpum-satoyuichi.vercel.app/api/top-langs/?username=satoyuichi&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+--->
 
 <!---
 satoyuichi/satoyuichi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
